@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ![cirimaro's trophy](https://github-profile-trophy.vercel.app/?username=cirimaro&theme=tokyonight)
 ![cirimaro's Stats](https://github-readme-stats.vercel.app/api?username=cirimaro&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-<img align="right">
 ![cirimaro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cirimaro&theme=tokyonight&hide_border=true)
-</img>
+
